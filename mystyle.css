@@ -7,12 +7,7 @@ p.fancy{
   color:#666;
   font-style: oblique;
 }
-#firsttable{
-  text-align: center;
-  border: 1px solid black;
+table, th, td{
+  border: 3px solid black;
+  border-collapse: collapse;
 }
-th, td {
-  border: 1px solid black;
-  padding: 15px;
-}
-
