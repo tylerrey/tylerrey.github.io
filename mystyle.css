@@ -10,4 +10,6 @@ p.fancy{
 table, th, td{
   border: 3px solid black;
   border-collapse: collapse;
+  padding: 10px;
+  text-align: center;
 }
