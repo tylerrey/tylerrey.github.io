@@ -18,3 +18,9 @@ table, th, td{
 th, td {
   padding: 15px;
 }
+ul{
+  list-style-type: circle;
+}
+li{
+  font-size: 20px;
+}
