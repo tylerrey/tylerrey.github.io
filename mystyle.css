@@ -5,7 +5,8 @@ body{
   background-color:#f5f5f5;
 }
 #extrabody{
-  background-image:"ewf.gif"
+  background-image:url("ewf.gif");
+  background-color: #cccccc;
 }
 h1{
   font-size:3em;
