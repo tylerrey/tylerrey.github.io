@@ -1,6 +1,8 @@
-.class{
-  background-image:url("ewf.gif");
-
+body {
+  background-image: url("img_tree.gif"), url("paper.gif");
+  background-repeat: no-repeat, repeat;
+  background-color: #cccccc;
+}
 head{
   background-color:#f5f5f5;
 }
