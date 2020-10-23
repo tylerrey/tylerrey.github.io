@@ -5,7 +5,7 @@ body{
   background-color:#f5f5f5;
 }
 .class{
-  background-image:url("ewf.gif")
+  background-image:"url(ewf.gif)"
 }
 h1{
   font-size:3em;
